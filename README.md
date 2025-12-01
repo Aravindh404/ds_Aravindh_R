@@ -1,5 +1,5 @@
 # PrimeTrade – Sentiment-Driven Trading Behavior Analysis  
-### Name: Aravind R
+### Name: Aravindh R
 
 This repository contains my data analysis and insights for the PrimeTrade trading-sentiment assignment.  
 All work follows the required folder structure and was executed in Google Colab.
@@ -84,5 +84,5 @@ A clean PDF summary of methodology and insights is included as:
 ---
 
 ## 🧑‍💻 Contact  
-Aravind R  
+Aravindh R  
 Email: *arvindhjeswin@gmail.com*
